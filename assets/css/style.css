@@ -1,0 +1,14 @@
+.container {
+  padding: 5rem 0;
+}
+
+img {
+  width: 50%;
+  padding: 1rem 0;
+  cursor: pointer;
+  transition: transform 0.4s;
+}
+
+img:hover {
+  transform: translateY(-1.5rem);
+}
